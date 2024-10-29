@@ -1,6 +1,6 @@
 footer {
-    background-color: #333; 
-    color: white; 
+    background-color: #0c5064; 
+    color: rgb(16, 16, 17); 
     padding: 50px; 
     text-align: center; 
 }
@@ -22,7 +22,7 @@ footer {
 }
 
 .mi-menu a {
-    color: white; 
+    color: rgb(252, 248, 248); 
     text-decoration: none; 
     padding: 8px 12px;
     border-radius: 4px; 
@@ -30,5 +30,5 @@ footer {
 }
 
 .mi-menu a:hover {
-    background-color: #818080; 
+    background-color: #89d8f0; 
 }
